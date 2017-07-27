@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "472448496746",
+    "firebase_url": "https://twitterbook-b40d6.firebaseio.com",
+    "project_id": "twitterbook-b40d6",
+    "storage_bucket": "twitterbook-b40d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472448496746:android:012055ae2d4eaed6",
+        "android_client_info": {
+          "package_name": "posidenpalace.com.twitterbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472448496746-u1l2rai3539r7u4m8tascim66lmqctnr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "posidenpalace.com.twitterbook",
+            "certificate_hash": "ecc3899beadb427afde1f5bcf84676233aa62ec6"
+          }
+        },
+        {
+          "client_id": "472448496746-eo89q0gsiligdqt7j9p5lk3i23u171t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD79Zk7AzORci05L3CsQRsoDGVv4iLrDIc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472448496746-eo89q0gsiligdqt7j9p5lk3i23u171t9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

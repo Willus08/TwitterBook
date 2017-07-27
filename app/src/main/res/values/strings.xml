@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TwitterBook</string>
+    <string name="facebook_app_id">1353362614761223</string>
+    <string name="fb_login_protocol_scheme">fb1353362614761223</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">Wp5sBXRPntZrpzhgUVVRYtH2C</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">	a3TqsqN2om5ObODGnq2tKEAtw1BKTuaFo3fe2dvy5xw4fcFk79</string>
+</resources>
